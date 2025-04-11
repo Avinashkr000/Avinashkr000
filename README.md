@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Avinash Kumar
+🚀 Aspiring DevOps Engineer | B.Tech Final Year  
+🔧 Tools: Linux | Git | Jenkins | Docker | AWS | Terraform | Kubernetes  
+📚 Currently Learning: CI/CD, GitHub Actions, Monitoring  
+📁 Check out my projects below and feel free to connect!
 
-<!--
-**Avinashkr000/Avinashkr000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 My DevOps Projects
+- **Jenkins CI/CD + Docker + AWS** → [Link]
+- **GitHub Actions + Terraform + EC2** → [Link]
+- **Dockerized Node.js App with Nginx Reverse Proxy** → [Link]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/Avinash0001/)
