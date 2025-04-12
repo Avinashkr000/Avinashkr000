@@ -75,7 +75,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinashkumar">
+  <a href="https://www.linkedin.com/in/avinash0001">
     <img src="https://img.shields.io/badge/-Avinash%20Kumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
 </p>
