@@ -1,105 +1,64 @@
-<h1 align="center">👋 Hey, I'm Avinash Kumar!</h1>
-
-<p align="center">
-  🚀 <strong>Aspiring DevOps Engineer</strong> | 🎓 Final Year B.Tech Student <br>
-  🔧 Passionate about automation, CI/CD, and cloud-native technologies
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DBF73&center=true&vCenter=true&width=450&lines=DevOps+Enthusiast;Cloud+Native+Learner;Open+Source+Contributor;Always+Learning+New+Tools" />
-</p>
+<h1 align="center">Hi, I'm Avinash 👋</h1>
+<p align="center">🚀 Aspiring Java Backend Developer | Learning & Building Daily 💻</p>
 
 ---
 
-## 🛠 Tech Stack
+### 🧑‍💻 About Me
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" /> **Languages**  
-`Bash` | `YAML`
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /> **DevOps & Cloud Tools**  
-`Linux` | `Git` | `GitHub` | `Jenkins` | `Docker` | `Kubernetes` | `AWS` | `Terraform` | `Ansible`
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" /> **CI/CD & Monitoring**  
-`Jenkins Pipelines` | `GitHub Actions` | `Prometheus` | `Grafana`
+- 🎓 Final-year B.Tech student, passionate about **Java Backend Development**
+- 💡 Currently learning **Spring Boot**, **Spring Security (JWT)**, **REST APIs**, and building real-world projects
+- 🎯 My goal is to become a job-ready developer and crack my first tech job with strong hands-on skills
+- 🛠️ I believe in building & learning — every day, one step forward!
 
 ---
 
-## 🚀 DevOps Projects
-
-### ⚙️ CI/CD with Jenkins + Docker + AWS
-<p>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="right">
-</p>
-
-> A full CI pipeline using **Jenkins** to build, test, and deploy a containerized app to **AWS EC2**.
-
-🧰 Tools: Jenkins, Docker, GitHub, AWS EC2  
-🔗 [View Project Repo](https://github.com/your-username/jenkins-docker-aws-project)
-
----
-
-### 📦 GitHub Actions + Terraform + AWS EC2
+### 🔧 Tech Stack I'm Working With
 
 <p>
-  <img src="https://media.giphy.com/media/IhcvB9dQ8ymYbSSZqk/giphy.gif" width="100" align="right">
-</p>
-
-> Automatically deploy apps with **GitHub Actions** and **Terraform** on AWS infrastructure.
-
-🧰 Tools: GitHub Actions, Terraform, AWS EC2  
-🔗 [View Project Repo](https://github.com/your-username/github-actions-terraform-aws)
-
----
-
-### ☸️ Kubernetes Deployment (Minikube + YAML)
-
-<p>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" align="right">
-</p>
-
-> Deploy Node.js apps with **Kubernetes** using Minikube and `kubectl`.
-
-🧰 Tools: Docker, Kubernetes, YAML  
-🔗 [View Project Repo](https://github.com/your-username/kubernetes-node-app)
-
----
-
-## 📈 DevOps Learning Tracker
-
-📅 I'm on a **90-Day DevOps Journey**  
-📍 Tracking my goals, progress, and daily logs here:  
-🔗 [My DevOps Tracker](https://notion.so/your-notion-link)
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/avinash0001">
-    <img src="https://img.shields.io/badge/-Avinash%20Kumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 💡 Currently Exploring
+### 📦 Projects I'm Working On
 
-- 🔐 **DevSecOps** & Security in Pipelines  
-- ☁️ **Multi-cloud Deployments (AWS, Azure, GCP)**  
-- 📦 **Helm Charts, ArgoCD, GitOps**  
-- 📊 **Advanced Monitoring and Observability**
+| Project | Description |
+|--------|-------------|
+| 🧾 **Smart Leave Management System (SLMS)** | A complete leave approval system with role-based access (Employee, Manager, Admin), built using Spring Boot, JWT & MySQL |
+| 🗳️ **Online Voting System** | Secure voting app with one-vote-per-user logic, real-time result tally, and JWT-based login |
+| 💼 **Employee Payroll App** | Basic CRUD backend with REST APIs for managing employee salary info |
+| 📊 **Expense Tracker API** *(planned)* | A RESTful app to record and analyze monthly expenses with category breakdown |
+
+👉 All projects will have **README**, **API Docs**, and **GitHub-ready structure**
 
 ---
 
-## 🌟 Let's Collaborate
+### 🔍 What I'm Currently Focusing On:
 
-If you're working on open-source DevOps or cloud projects, I'd love to contribute or collaborate!  
-Feel free to connect, fork my projects, or just drop a "Hi!" on LinkedIn!
+- ✅ Java Core (OOPs, Collections, Stream API)
+- ✅ Spring Boot + MySQL Integration
+- ✅ Spring Security with JWT Authentication
+- ✅ Building real-world resume-level backend projects
+- ✅ Practicing logic/DSA daily (LeetCode/HackerRank)
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(Add your real LinkedIn)*
+- 📧 avinash.email@example.com *(Replace with your email)*
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
+  <img src="https://komarev.com/ghpvc/?username=Avinashkr000&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p align="center"><strong>⭐ If you like my work, star the projects and follow for more!</strong></p>
+---
+
+<p align="center"><i>“Consistency + Projects = Job Ready!”</i> 🚀</p>
