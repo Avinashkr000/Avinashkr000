@@ -4,7 +4,7 @@ Backend & DevOps Engineer | Ex-Capgemini | Spring Boot, Docker, CI/CD, AWS
 
 - 🚀 Currently building real-world projects with Java, Spring Boot, and DevOps tools.
 - 💼 Internship: Software Engineer @ Capgemini (May–Jul 2025) — Dockerized microservices, set up CI/CD, deployed on AWS EC2.
-- 📫 Email: avinashkr000@gmail.com | [LinkedIn](https://www.linkedin.com/in/avinash0001/)
+- 📫 Email: ak749299.ak@gmail.com | [LinkedIn](https://www.linkedin.com/in/avinash0001/)
 
 ## 🚩 Projects
 
