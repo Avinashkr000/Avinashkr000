@@ -2,6 +2,11 @@
 
 **Backend & DevOps Engineer** | *Ex-Capgemini* | Java • Spring Boot • Docker • CI/CD • AWS  
 
+[![Linkedin Badge](https://img.shields.io/badge/-Avinash%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-java-backend/)](https://www.linkedin.com/in/avinash-java-backend/) 
+[![Gmail Badge](https://img.shields.io/badge/-ak749299.ak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ak749299.ak@gmail.com) 
+![Profile views](https://komarev.com/ghpvc/?username=Avinashkr000&color=blueviolet) 
+![GitHub followers](https://img.shields.io/github/followers/Avinashkr000?label=Follow&style=social)
+
 ---
 
 ## 🚀 About Me  
@@ -10,26 +15,18 @@
    - Dockerized and deployed multiple Spring Boot microservices on AWS EC2  
    - Developed and maintained CI/CD pipelines (GitHub Actions, Bitbucket)  
    - Hands-on with cloud-native tools in real DevOps environments  
+- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/Avinashkr000).  
+- 💬 Ask me anything, I’ll be happy to help!  
 - 📫 Reach me: **ak749299.ak@gmail.com** | [LinkedIn](https://www.linkedin.com/in/avinash-java-backend/)  
+- ⚡ Fun fact: *I solve bugs faster with coffee ☕*  
 
 ---
 
-## 🚩 Featured Projects  
-
-🔹 **Spring Boot Bookstore REST API**  
-Secure CRUD operations, JWT authentication, Dockerized with a live CI/CD pipeline.  
-👉 [View Repo](link)  
-
-🔹 **DevOps Automation Demo**  
-End-to-end workflow with GitHub Actions, AWS deployment, and monitoring setup.  
-👉 [View Repo](link)  
+## 🚩 Featured Project  
 
 🔹 **Inventory Management System (In Progress)**  
-Working on a real-world style inventory app with **Spring Boot + MySQL + JWT Security**.  
-
-🔹 **Payment Integration System**  
-Backend handling 1,000+ daily payment requests with secure RESTful endpoints, Dockerized and deployed via CI/CD.  
-👉 [View Repo](link)  
+Building a real-world style inventory management application with **Spring Boot + MySQL + JWT Security**.  
+👉 [View Repo](https://github.com/Avinashkr000/InventoryManagementSystem)  
 
 ---
 
@@ -45,7 +42,6 @@ Backend handling 1,000+ daily payment requests with secure RESTful endpoints, Do
 
 ### 🗄 Databases & Caching  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)  
 
 ### ⚙️ DevOps & Cloud  
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)  
@@ -74,6 +70,14 @@ Backend handling 1,000+ daily payment requests with secure RESTful endpoints, Do
 
 ![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinashkr000&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkr000&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avinashkr000&theme=tokyonight)  
+
+---
+
+## 🧑‍🚀 Achievements & Extras  
+- Solved **220+ DSA problems** on CodeChef.  
+- Certified: *Programming in Java (Infosys Springboard)*, *AWS Cloud Practitioner Essentials*.  
+- Active contributor & always exploring new tech.  
 
 ---
 
