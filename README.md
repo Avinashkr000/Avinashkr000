@@ -4,7 +4,7 @@
 <!--   HERO BANNER — ANIMATED VENOM WAVE                           -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Avinash%20Kumar&fontSize=78&color=0:020024,30:090979,60:00d4ff,100:020024&stroke=00d4ff&strokeWidth=3&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Fintech%20Systems%20%7C%20Golang%20%26%20AWS&descSize=22&descAlignY=78&descColor=a0f0ff&rotate=-2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;height=320&amp;text=Avinash%20Kumar&amp;fontSize=78&amp;color=0:020024,30:090979,60:00d4ff,100:020024&amp;stroke=00d4ff&amp;strokeWidth=3&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Backend%20Engineer%20%7C%20Fintech%20Systems%20%7C%20Golang%20%26%20AWS&amp;descSize=22&amp;descAlignY=78&amp;descColor=a0f0ff&amp;rotate=-2" width="100%" />
 
 <!-- Typing SVG — JetBrains Mono, multi-line cycling -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=750&lines=%F0%9F%9A%80+Backend+Developer+%40+Rupeelending;%F0%9F%92%B3+Fintech+%7C+LMS+%7C+Payment+Infrastructure;%E2%9A%A1+Setu+UPI+%7C+Realtime+Reconciliation;%F0%9F%94%97+Webhook+Architectures+%7C+OCR+Pipelines;%F0%9F%93%A1+WhatsApp+Business+API+%7C+WABA;%F0%9F%93%A6+2L%2B+Records+CSV+Processing;%E2%98%81%EF%B8%8F+Scalable+Backend+Systems+on+AWS)](https://git.io/typing-svg)
@@ -91,12 +91,12 @@ func New() Avinash {
 <tr>
 <td width="50%" valign="top">
 
-**🏦 Payment & UPI Infrastructure**
+**🏦 Payment &amp; UPI Infrastructure**
 ```yaml
 - Setu UPI end-to-end workflow
 - Realtime payment reconciliation
 - Webhook-driven notification engine
-- Idempotency & failure recovery
+- Idempotency &amp; failure recovery
 - Payment status sync systems
 ```
 
@@ -115,17 +115,17 @@ func New() Avinash {
 **💬 Communication Systems**
 ```yaml
 - WhatsApp Business API (WABA)
-- Delivery tracking & deduplication
+- Delivery tracking &amp; deduplication
 - Templated collection messaging
 - Multi-channel notification flows
 - Real-time delivery status sync
 ```
 
-**☁️ Cloud & LMS Workflows**
+**☁️ Cloud &amp; LMS Workflows**
 ```yaml
 - AWS S3 document management
 - LMS collection workflow automation
-- KYC & OCR pipeline integration
+- KYC &amp; OCR pipeline integration
 - Production API architectures
 - Operational dashboard tooling
 ```
@@ -162,19 +162,19 @@ func New() Avinash {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,react,javascript,typescript,java&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=go,react,javascript,typescript,java&amp;theme=dark&amp;perline=5" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,postgres,docker,aws&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,postgres,docker,aws&amp;theme=dark&amp;perline=5" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,git,vscode,postman&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,vscode,postman&amp;theme=dark&amp;perline=5" />
 
 <br/><br/>
 
-**⚙️ Core Languages & Runtimes**
+**⚙️ Core Languages &amp; Runtimes**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -192,7 +192,7 @@ func New() Avinash {
 
 <br/>
 
-**🗄️ Databases & Caching**
+**🗄️ Databases &amp; Caching**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -200,7 +200,7 @@ func New() Avinash {
 
 <br/>
 
-**☁️ Cloud, DevOps & Infrastructure**
+**☁️ Cloud, DevOps &amp; Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -211,7 +211,7 @@ func New() Avinash {
 
 <br/>
 
-**🔧 API & Tooling**
+**🔧 API &amp; Tooling**
 
 ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -231,7 +231,7 @@ func New() Avinash {
 <!--   ARCHITECTURE FOCUS                                          -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<h2>🏗️ Backend & Architecture Expertise</h2>
+<h2>🏗️ Backend &amp; Architecture Expertise</h2>
 
 <div align="center">
 
@@ -270,11 +270,11 @@ func New() Avinash {
 <div align="center">
 
 <a href="https://github.com/Avinashkr000/url-shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&repo=url-shortener&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&amp;repo=url-shortener&amp;theme=tokyonight&amp;border_color=00d4ff&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;bg_color=0d1117&amp;hide_border=false" />
 </a>
-&nbsp;&nbsp;
+&amp;nbsp;&amp;nbsp;
 <a href="https://github.com/Avinashkr000/inventory-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&repo=inventory-management&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&amp;repo=inventory-management&amp;theme=tokyonight&amp;border_color=00d4ff&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;bg_color=0d1117&amp;hide_border=false" />
 </a>
 
 </div>
@@ -324,31 +324,31 @@ func New() Avinash {
 
 <!-- Trophies -->
 <a href="https://github.com/Avinashkr000">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avinashkr000&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinashkr000&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4&amp;column=7" width="100%"/>
 </a>
 
 <br/><br/>
 
 <!-- Stats + Top Languages -->
 <a href="https://github.com/Avinashkr000">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Avinashkr000&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Avinashkr000&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false&amp;rank_icon=github"/>
 </a>
 <a href="https://github.com/Avinashkr000">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkr000&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=8"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkr000&amp;layout=compact&amp;theme=tokyonight&amp;border_color=00d4ff&amp;title_color=00d4ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=false&amp;langs_count=8"/>
 </a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://streak-stats.demolab.com/?user=Avinashkr000">
-  <img width="700" src="https://streak-stats.demolab.com?user=Avinashkr000&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff9800&currStreakLabel=00d4ff&background=0d1117&dates=8b949e&stroke=21262d&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+  <img width="700" src="https://streak-stats.demolab.com?user=Avinashkr000&amp;theme=tokyonight&amp;border=00d4ff&amp;ring=00d4ff&amp;fire=ff9800&amp;currStreakLabel=00d4ff&amp;background=0d1117&amp;dates=8b949e&amp;stroke=21262d&amp;sideLabels=c9d1d9&amp;currStreakNum=ffffff&amp;sideNums=ffffff" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/Avinashkr000">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashkr000&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&border_color=21262d&custom_title=Avinash's%20Contribution%20Timeline" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashkr000&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=00d4ff&amp;point=ffffff&amp;area=true&amp;area_color=00d4ff&amp;border_color=21262d&amp;custom_title=Avinash's%20Contribution%20Timeline" width="100%"/>
 </a>
 
 </div>
@@ -380,7 +380,7 @@ func New() Avinash {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kafka,kubernetes,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kafka,kubernetes,graphql&amp;theme=dark" />
 
 <br/><br/>
 
@@ -413,15 +413,15 @@ func New() Avinash {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/avinash-java-backend/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
-&nbsp;
+&amp;nbsp;
 <a href="mailto:ak749299.ak@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
-&nbsp;
+&amp;nbsp;
 <a href="https://github.com/Avinashkr000">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -436,7 +436,7 @@ func New() Avinash {
 <!--   ANIMATED FOOTER WAVE                                        -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020024,40:090979,80:00d4ff,100:020024&section=footer&text=Building%20Systems%20That%20Move%20Money%20at%20Scale&fontSize=18&fontColor=a0f0ff&animation=twinkling&fontAlignY=70&rotate=-1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=160&amp;color=0:020024,40:090979,80:00d4ff,100:020024&amp;section=footer&amp;text=Building%20Systems%20That%20Move%20Money%20at%20Scale&amp;fontSize=18&amp;fontColor=a0f0ff&amp;animation=twinkling&amp;fontAlignY=70&amp;rotate=-1" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- SNAKE ANIMATION SETUP                                           -->
