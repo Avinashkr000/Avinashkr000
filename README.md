@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Avinash%20Kumar&fontSize=78&color=0:020024,30:090979,60:00d4ff,100:020024&stroke=00d4ff&strokeWidth=3&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Fintech%20Systems%20%7C%20Golang%20%26%20AWS&descSize=22&descAlignY=78&descColor=a0f0ff&rotate=-2" width="100%" alt="Avinash Kumar" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Avinash%20Kumar&fontSize=78&color=0:020024,30:090979,60:00d4ff,100:020024&stroke=00d4ff&strokeWidth=3&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20|%20Fintech%20Systems%20|%20Golang%20and%20AWS&descSize=22&descAlignY=78&descColor=a0f0ff&rotate=-2" width="100%" alt="Avinash Kumar" />
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&lines=Backend+Developer+%40+Rupeelending;Fintech+%7C+LMS+%7C+Payment+Infrastructure;Setu+UPI+%7C+Realtime+Reconciliation;Webhook+Architectures+%7C+OCR+Pipelines;WhatsApp+Business+API+%7C+WABA;2L%2B+Records+CSV+Processing;Scalable+Backend+Systems+on+AWS)](https://git.io/typing-svg)
