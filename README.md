@@ -7,31 +7,31 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&amp;height=320&amp;text=Avinash%20Kumar&amp;fontSize=78&amp;color=0:020024,30:090979,60:00d4ff,100:020024&amp;stroke=00d4ff&amp;strokeWidth=3&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Backend%20Engineer%20%7C%20Fintech%20Systems%20%7C%20Golang%20%26%20AWS&amp;descSize=22&amp;descAlignY=78&amp;descColor=a0f0ff&amp;rotate=-2" width="100%" />
 
 <!-- Typing SVG — JetBrains Mono, multi-line cycling -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=750&lines=%F0%9F%9A%80+Backend+Developer+%40+Rupeelending;%F0%9F%92%B3+Fintech+%7C+LMS+%7C+Payment+Infrastructure;%E2%9A%A1+Setu+UPI+%7C+Realtime+Reconciliation;%F0%9F%94%97+Webhook+Architectures+%7C+OCR+Pipelines;%F0%9F%93%A1+WhatsApp+Business+API+%7C+WABA;%F0%9F%93%A6+2L%2B+Records+CSV+Processing;%E2%98%81%EF%B8%8F+Scalable+Backend+Systems+on+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2800&amp;pause=700&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;random=false&amp;width=750&amp;lines=%F0%9F%9A%80+Backend+Developer+%40+Rupeelending;%F0%9F%92%B3+Fintech+%7C+LMS+%7C+Payment+Infrastructure;%E2%9A%A1+Setu+UPI+%7C+Realtime+Reconciliation;%F0%9F%94%97+Webhook+Architectures+%7C+OCR+Pipelines;%F0%9F%93%A1+WhatsApp+Business+API+%7C+WABA;%F0%9F%93%A6+2L%2B+Records+CSV+Processing;%E2%98%81%EF%B8%8F+Scalable+Backend+Systems+on+AWS)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Animated status badge -->
-![Status](https://img.shields.io/badge/STATUS-Building%20Fintech%20at%20Scale-00d4ff?style=for-the-badge&labelColor=020024&logo=go&logoColor=00d4ff)
+![Status](https://img.shields.io/badge/STATUS-Building%20Fintech%20at%20Scale-00d4ff?style=for-the-badge&amp;labelColor=020024&amp;logo=go&amp;logoColor=00d4ff)
 
 <br/><br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-java-backend/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak749299.ak@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avinashkr000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/avinash-java-backend/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:ak749299.ak@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Avinashkr000)
 
 <br/><br/>
 
 <!-- Profile views + followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Avinashkr000&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/Avinashkr000?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Avinashkr000&amp;style=for-the-badge&amp;color=00d4ff&amp;label=PROFILE+VIEWS&amp;labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Avinashkr000?style=for-the-badge&amp;color=00d4ff&amp;labelColor=0d1117&amp;label=FOLLOWERS&amp;logo=github&amp;logoColor=white)
 
 </div>
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
 <br/>
 
@@ -73,7 +73,6 @@ func New() Avinash {
         Location: "India 🇮🇳",
     }
 }
-```
 
 <br clear="right"/>
 
