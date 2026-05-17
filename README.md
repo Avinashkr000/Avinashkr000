@@ -217,8 +217,15 @@ func New() Avinash {
 
 <div align="center">
 
-[![url-shortener](https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&repo=url-shortener&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117)](https://github.com/Avinashkr000/url-shortener)
-[![inventory-management](https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&repo=inventory-management&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117)](https://github.com/Avinashkr000/inventory-management)
+<p align="center">
+  <a href="https://github.com/Avinashkr000/url-shortener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&repo=url-shortener&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117" />
+  </a>
+
+  <a href="https://github.com/Avinashkr000/inventory-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avinashkr000&repo=inventory-management&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117" />
+  </a>
+</p>
 
 </div>
 
